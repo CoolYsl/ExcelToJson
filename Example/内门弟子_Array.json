@@ -1,0 +1,72 @@
+[
+  {
+    "Level": 1,
+    "Jingjie": "筑基1层",
+    "Blood": 1712,
+    "Atk": 120,
+    "Defense": 148,
+    "FightingCap": 586,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 2,
+    "Jingjie": "筑基2层",
+    "Blood": 1917,
+    "Atk": 137,
+    "Defense": 166,
+    "FightingCap": 658,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 3,
+    "Jingjie": "筑基3层",
+    "Blood": 2122,
+    "Atk": 154,
+    "Defense": 183,
+    "FightingCap": 730,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 4,
+    "Jingjie": "筑基4层",
+    "Blood": 2326,
+    "Atk": 170,
+    "Defense": 201,
+    "FightingCap": 802,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 5,
+    "Jingjie": "筑基5层",
+    "Blood": 2531,
+    "Atk": 187,
+    "Defense": 218,
+    "FightingCap": 874,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 6,
+    "Jingjie": "筑基6层",
+    "Blood": 2736,
+    "Atk": 204,
+    "Defense": 236,
+    "FightingCap": 946,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  },
+  {
+    "Level": 7,
+    "Jingjie": "筑基7层",
+    "Blood": 2941,
+    "Atk": 221,
+    "Defense": 254,
+    "FightingCap": 1018,
+    "ShanghaiJiacheng": 0.05,
+    "ShoushangZengjia": -0.05
+  }
+]
